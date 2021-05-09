@@ -1,0 +1,12 @@
+- insee: 11
+  name: "Joe Foo"
+  salary: 19000.00
+- insee: 12
+  name: "Jack Bar"
+  salary: 19000.00
+- insee: 21
+  name: "William Baz"
+  salary: 18500.00
+- insee: 22
+  name: "Averell Qux"
+  salary: 18500.00

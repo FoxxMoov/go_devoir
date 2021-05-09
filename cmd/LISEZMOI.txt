@@ -1,0 +1,2 @@
+La commande - incomplète - addStaff vous est fournie comme base pour toutes
+les suivantes, que vous devrez créer avec Cobra ou manuellement.

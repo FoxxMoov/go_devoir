@@ -1,0 +1,16 @@
+- insee: 11
+  given: "Joe"
+  last: "Foo"
+  salary: 19000.00
+- insee: 12
+  given: "Jack"
+  last: "Bar"
+  salary: 19000.00
+- insee: 21
+  given: "William"
+  last: "Baz"
+  salary: 18500.00
+- insee: 22
+  given: "Averell"
+  last: "Qux"
+  salary: 18500.00

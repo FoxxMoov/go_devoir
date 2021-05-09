@@ -1,0 +1,20 @@
+- siret: 1
+  date: 2020-12-14T21:59:43.10-05:00
+  total_salary: 38000.00
+  staff:
+    - insee: 11
+      name: "Joe Foo"
+      salary: 19000.00
+    - insee: 12
+      name: "Jack Bar"
+      salary: 19000.00
+- siret: 2
+  date: 2020-12-19T13:50:25.20-40:00
+  total_salary: 37000.00
+  staff:
+    - insee: 21
+      name: "William Baz"
+      salary: 18500.00
+    - insee: 22
+      name: "Averell Qux"
+      salary: 18500.00

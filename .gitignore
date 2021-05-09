@@ -1,0 +1,7 @@
+.DS_Store
+devoir10
+# Ignore IDEA sensitive files.
+.idea/workspace.xml
+.idea/dataSources*
+# Ignore SQLite databases.
+*.db
